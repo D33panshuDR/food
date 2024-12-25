@@ -1,7 +1,7 @@
 ---
 title: "Banana Bread"
-image: "images/recipes/recipe-3.jpg"
-categories: ["Breakfast", "Sweet treat"]
+image: "images/recipes/bananabread1.jpeg"
+categories: ["Sweet treats"]
 tags: ["sugarfree","glutenfree","dairyfree"]
 type: "recipes"
 date: 2024-12-23T12:00:00+06:00
@@ -14,14 +14,6 @@ draft: false
 - 2 eggs
 - 200 g Greek yogurt
 - 100 g olive oil
-- 100 g soft Medjool dates
-- 140 g gluten-free rolled oats
-- 2 g baking soda
-- 4 g baking powder
-- 2 g cinnamon
-- 50 g walnuts (chopped)
-
-## Instructions
 
 1. Prepare the oat flour: Blend the gluten-free rolled oats into a fine flour using a blender or food processor
 2. Prepare the date paste: Blend the pitted Medjool dates with 2–3 tablespoons of warm water until smooth. Set aside.

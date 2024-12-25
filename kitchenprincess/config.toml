@@ -65,7 +65,7 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = "images/logo.png"
+logo = "images/logo-pink.png"
 # contact info
 # mobile = "+880 2544 658 256"
 email = "luise@raeuberleiterin.de"
@@ -94,6 +94,10 @@ link = "https://www.instagram.com/luisefreese/"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/luisefreese"
+
+[[params.social]]
+icon = "simple-icons--bluesky"
+link = "https://bsky.app/profile/luisefreese.bsky.social"
 
 [[params.social]]
 icon = "ti-world"

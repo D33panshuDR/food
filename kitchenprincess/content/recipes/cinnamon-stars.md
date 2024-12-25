@@ -1,11 +1,11 @@
 ---
 title: "Cinnamon stars"
 image: "images/recipes/recipe-1.jpg"
-categories: ["Xmas", "Sweet treats"]
+categories: ["Xmas"]
 tags: ["sugarfree","glutenfree", "vegan"]
 type: "recipes"
 date: 2024-12-23T12:00:00+06:00
-draft: false
+draft: true
 ---
 
 ## Ingredients
