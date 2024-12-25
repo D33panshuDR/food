@@ -54,11 +54,6 @@ name = "Recipes"
 url = "recipes/"
 weight = 3
 
-[[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 4
-
 
 
 
