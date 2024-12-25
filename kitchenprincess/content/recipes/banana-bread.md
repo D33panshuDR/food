@@ -1,7 +1,7 @@
 ---
 title: "Banana Bread"
 image: "images/recipes/recipe-3.jpg"
-categories: ["Breakfast", "Sweet treat"]
+categories: ["Sweet treat"]
 tags: ["sugarfree","glutenfree","dairyfree"]
 type: "recipes"
 date: 2024-12-23T12:00:00+06:00

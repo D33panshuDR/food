@@ -1,7 +1,7 @@
 ---
 title: "Ginger shots"
 image: "images/recipes/brownies.jpeg"
-categories: [""]
+categories: ["Immune booster"]
 tags: ["sugarfree","glutenfree"]
 type: "recipes"
 date: 2024-12-23T12:00:00+06:00
