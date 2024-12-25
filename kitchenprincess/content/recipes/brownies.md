@@ -1,7 +1,7 @@
 ---
 title: "Browies"
 image: "images/recipes/brownies.jpeg"
-categories: ["Sweet treat"]
+categories: ["Sweet treats"]
 tags: ["sugarfree","glutenfree", "vegan"]
 type: "recipes"
 date: 2024-12-23T12:00:00+06:00

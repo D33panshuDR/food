@@ -1,6 +1,6 @@
 ---
 title: "Granola"
-image: "images/recipes/brownies.jpeg"
+image: "images/recipes/granola.jpeg"
 categories: ["Breakfast"]
 tags: ["sugarfree","glutenfree"]
 type: "recipes"

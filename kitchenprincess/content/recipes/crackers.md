@@ -1,7 +1,7 @@
 ---
 title: "Crackers"
 image: "images/recipes/cracker.jpg"
-categories: ["Snack"]
+categories: ["Snacks"]
 tags: ["sugarfree","vegan"]
 type: "recipes"
 date: 2024-12-23T12:00:00+06:00
