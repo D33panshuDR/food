@@ -96,6 +96,10 @@ icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/luisefreese"
 
 [[params.social]]
+icon = "simple-icons--bluesky"
+link = "https://bsky.app/profile/luisefreese.bsky.social"
+
+[[params.social]]
 icon = "ti-world"
 link = "https://m365princess.com/"
 
