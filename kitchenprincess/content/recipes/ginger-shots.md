@@ -1,6 +1,6 @@
 ---
 title: "Ginger shots"
-image: "images/recipes/brownies.jpeg"
+image: "images/recipes/gingershot.jpeg"
 categories: ["Immune booster"]
 tags: ["sugarfree","glutenfree"]
 type: "recipes"
