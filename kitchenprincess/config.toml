@@ -61,6 +61,7 @@ weight = 3
 [params]
 home = "Home"
 logo = "images/logo-pink.png"
+favicon = "/images/logo-pink.png"
 # contact info
 # mobile = "+880 2544 658 256"
 email = "luise@raeuberleiterin.de"
