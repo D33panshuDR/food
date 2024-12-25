@@ -1,7 +1,7 @@
 ####################### banner ########################
 banner:
   enable: true
-  title: "ThatKitchenPrincess."
+  title: "Omnomnom"
   animated_text:
     - "Healthy Recipes."
     - "Tasty Creations."
